@@ -40,7 +40,7 @@ print("""
        https://www.facebook.com/chokun.in.16              
 	
 """)
-print("ห้ามขาย ห้ามรับยิง")
+print("・・・・")
 print("")
 phone = input("\033[95m[+] เบอร์ : \033[0m")
 num = int(input("\033[95m[+] นาที : \033[0m"))
