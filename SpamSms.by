@@ -11,7 +11,7 @@ os.system ("clear")
 time.sleep (1)
 print ("\x1b[91mไปกดติดตาม!!!")
 time.sleep (1)
-print ("\x1b[96m[\x1b[91m1\x1b[96m] \x1b[96mกดติดตามก่อนใช่ \x1b[91m:V")
+print ("\x1b[96m[\x1b[91m1\x1b[96m] \x1b[96mกดติดตามก่อนใช้ \x1b[91m:V")
 time.sleep (1)
 os.system("xdg-open https://youtube.com/channel/UCJavMFFiv4Q6MVWnAqg1-_Q")
 time.sleep (8)
@@ -20,7 +20,7 @@ time.sleep (1)
 print ("\x1b[91m")
 os.system ("clear")
 time.sleep (1)
-print("\033[92mํ______________By. Wisky______________")
+print("")
 print("""
 ┌───────────────────────────────────────────────────┐
 │                                                   │
@@ -35,6 +35,8 @@ print("""
                  Spam Sms By : Wisky
                   [+FB]  : Wisky ʚìɞ
                   [YT]   : Wisky
+               [Discord] : wisky#0009
+         https://discord.gg/4Vq542XxF8
        https://www.facebook.com/chokun.in.16              
 	
 """)
@@ -43,6 +45,28 @@ print("")
 phone = input("\033[95m[+] เบอร์ : \033[0m")
 num = int(input("\033[95m[+] นาที : \033[0m"))
 os.system("clear")
+print("""
+┌───────────────────────────────────────────────────┐
+│                                                   │
+│       ██╗    ██╗██╗███████╗██╗  ██╗██╗   ██╗      │
+│       ██║    ██║██║██╔════╝██║ ██╔╝╚██╗ ██╔╝      │
+│       ██║ █╗ ██║██║███████╗█████╔╝  ╚████╔╝       │
+│       ██║███╗██║██║╚════██║██╔═██╗   ╚██╔╝        │
+│       ╚███╔███╔╝██║███████║██║  ██╗   ██║         │
+│        ╚══╝╚══╝ ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝         │
+│                                                   │
+└───────────────────────────────────────────────────┘
+                 Spam Sms By : Wisky
+                  [+FB]  : Wisky ʚìɞ
+                  [YT]   : Wisky
+               [Discord] : wisky#0009
+         https://discord.gg/4Vq542XxF8
+       https://www.facebook.com/chokun.in.16              
+	
+""")
+print("")
+print("")
+print("")
 print("\033[95m______________กำลังยิง______________")
 
 def test(): 
